@@ -1,0 +1,78 @@
+---
+title: "James Tyrrell"
+---
+
+Senior Research Software Engineer and Manager | PhD Applied Mathematics
+
+## Employment history
+
+`Jun 2023 - Present`
+**Senior RSE and Manager** at the University of Birmingham
+
+Working with researchers through the university to develop high-quality software solutions capable of transforming their research ideas into results.
+
+Major responsibilites:
+
+- Leading the techincal delivery of major projects on behalf of researchers and collaborators.
+- Overseeing projects led by other RSEs (e.g. through project management and code review).
+- Line-managing a team of five RSEs.
+- Facilitating the healthy provision and growth of the RSE Service.
+
+---
+
+`Nov 2019 - Jun 2023`
+**Software Engineer** at Arup
+
+Full-stack development of desktop applications for Windows and Linux systems as part of the Oasys LS-DYNA team, primarily in the following roles:
+
+- Lead developer for Oasys REPORTER (C++ / Qt / JavaScript)
+- Developer for Oasys D3PLOT (C / Fortran / JavaScript)
+
+Major responsibilities: developing new enhancements,  fixing bugs,  training junior developers, designing QA tests, integrating third-party libraries into our software and keeping them up to date, handling support requests from clients, liaising with the Product Manager to discus the future vision for our software.
+
+---
+
+`Feb 2019 - Nov 2019`
+**Postdoctoral Research Fellow** at the University of Birmingham
+
+Within the Chemical Engineering department.
+
+Researching the application of Fast Multipole Boundary Element Methods (FMBEM) to granular flow, comparing results to those achievable using other similar methods (e.g. Discrete Element Methods).
+
+## Education 
+
+**PhD in Applied Mathematics** at the University of Birmingham `Sep 2015 - Feb 2019`
+
+- Thesis title: *Modelling cytosolic flow and vesicle transport in the growing pollen tube*.
+- Supervised by: Prof Rosemary Dyson and Prof David Smith.
+- Working group: Mathematical Biology
+
+---
+
+**MSci Mathematics** at the University of Birmingham `Sep 2011 - Jul 2015`
+
+- Graduated with first class honours.
+
+## Publications
+
+**2019** J. Tyrrell, D.J. Smith, and R.J. Dyson. Regularized Stokeslet rings: An efficient method for axisymmetric Stokes flow with application to the growing pollen tube. Phys. Rev. Fluids 4, 063102.
+
+**2018** S. Inglesfield *et al*. Robust phagocyte recruitment controls the opportunistic fungal pathogen *Mucor circinelloides* in innate granulomas *in vivo*. MBio 9 (2), e02010-17.
+
+## Conferences and study groups
+
+As an RSE I have attended both RSECon (2023, 2024) and RSE Midlands (2024). I was an active participant in RSECon2024 (supporting a team member in delivering the RSE Regional Groups SIG Meeting) and in RSE Midlands 2024 (giving a lightning talk on my experience of managing the RSE Service at the University of Birmingham).
+
+As a software developer at Arup I contributed to several annual Users' Meetings for our software, including chairing a roundtable discussion on Green Software initiatives (2023). I organised several similar discussions internally at both Midlands and UK events.
+
+As an academic researcher I gave numerous presentations on my research, including at the British Young Mathematicians Colloquium (2016), the 9th International Plant Biomechanics Conference in Montreal (2018), and the UK Fluids Conference in Manchester (2018). I also participated in the 2016 and 2017 Multi-Scale Biology Study Group at the University of Birmingham, taking a leading role in presenting our work and organising the final written reports in both years.
+
+## Certificates and achievements
+
+“Editors’ Suggestion” for my article in Physical Review Fluids, awarded to fewer than 10% of papers submitted to the journal.
+
+Recipient of the Andrew King Prize for “outstanding performance in the field of Applied Mathematics” (MSci).
+
+Recipient of the Allied Maples Prize for “meritorious and promising work in the field of industrially or commercially applicable mathematics” (MSci).
+
+Recipient of an Excellence Scholarship as an undergraduate, worth £5000 a year for the duration of my undergraduate studies.
