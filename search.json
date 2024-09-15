@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "James Tyrrell",
+    "section": "",
+    "text": "Senior Research Software Engineer and Manager | PhD Applied Mathematics"
+  },
+  {
+    "objectID": "cv.html#employment-history",
+    "href": "cv.html#employment-history",
+    "title": "James Tyrrell",
+    "section": "Employment history",
+    "text": "Employment history\nJun 2023 - Present Senior RSE and Manager at the University of Birmingham\nWorking with researchers through the university to develop high-quality software solutions capable of transforming their research ideas into results.\nMajor responsibilites:\n\nLeading the techincal delivery of major projects on behalf of researchers and collaborators.\nOverseeing projects led by other RSEs (e.g. through project management and code review).\nLine-managing a team of five RSEs.\nFacilitating the healthy provision and growth of the RSE Service.\n\n\nNov 2019 - Jun 2023 Software Engineer at Arup\nFull-stack development of desktop applications for Windows and Linux systems as part of the Oasys LS-DYNA team, primarily in the following roles:\n\nLead developer for Oasys REPORTER (C++ / Qt / JavaScript)\nDeveloper for Oasys D3PLOT (C / Fortran / JavaScript)\n\nMajor responsibilities: developing new enhancements, fixing bugs, training junior developers, designing QA tests, integrating third-party libraries into our software and keeping them up to date, handling support requests from clients, liaising with the Product Manager to discus the future vision for our software.\n\nFeb 2019 - Nov 2019 Postdoctoral Research Fellow at the University of Birmingham\nWithin the Chemical Engineering department.\nResearching the application of Fast Multipole Boundary Element Methods (FMBEM) to granular flow, comparing results to those achievable using other similar methods (e.g. Discrete Element Methods)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "James Tyrrell",
+    "section": "Education",
+    "text": "Education\nPhD in Applied Mathematics at the University of Birmingham Sep 2015 - Feb 2019\n\nThesis title: Modelling cytosolic flow and vesicle transport in the growing pollen tube.\nSupervised by: Prof Rosemary Dyson and Prof David Smith.\nWorking group: Mathematical Biology\n\n\nMSci Mathematics at the University of Birmingham Sep 2011 - Jul 2015\n\nGraduated with first class honours."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "James Tyrrell",
+    "section": "Publications",
+    "text": "Publications\n2019 J. Tyrrell, D.J. Smith, and R.J. Dyson. Regularized Stokeslet rings: An efficient method for axisymmetric Stokes flow with application to the growing pollen tube. Phys. Rev. Fluids 4, 063102.\n2018 S. Inglesfield et al. Robust phagocyte recruitment controls the opportunistic fungal pathogen Mucor circinelloides in innate granulomas in vivo. MBio 9 (2), e02010-17."
+  },
+  {
+    "objectID": "cv.html#conferences-and-study-groups",
+    "href": "cv.html#conferences-and-study-groups",
+    "title": "James Tyrrell",
+    "section": "Conferences and study groups",
+    "text": "Conferences and study groups\nAs an RSE I have attended both RSECon (2023, 2024) and RSE Midlands (2024). I was an active participant in RSECon2024 (supporting a team member in delivering the RSE Regional Groups SIG Meeting) and in RSE Midlands 2024 (giving a lightning talk on my experience of managing the RSE Service at the University of Birmingham).\nAs a software developer at Arup I contributed to several annual Users’ Meetings for our software, including chairing a roundtable discussion on Green Software initiatives (2023). I organised several similar discussions internally at both Midlands and UK events.\nAs an academic researcher I gave numerous presentations on my research, including at the British Young Mathematicians Colloquium (2016), the 9th International Plant Biomechanics Conference in Montreal (2018), and the UK Fluids Conference in Manchester (2018). I also participated in the 2016 and 2017 Multi-Scale Biology Study Group at the University of Birmingham, taking a leading role in presenting our work and organising the final written reports in both years."
+  },
+  {
+    "objectID": "cv.html#certificates-and-achievements",
+    "href": "cv.html#certificates-and-achievements",
+    "title": "James Tyrrell",
+    "section": "Certificates and achievements",
+    "text": "Certificates and achievements\n“Editors’ Suggestion” for my article in Physical Review Fluids, awarded to fewer than 10% of papers submitted to the journal.\nRecipient of the Andrew King Prize for “outstanding performance in the field of Applied Mathematics” (MSci).\nRecipient of the Allied Maples Prize for “meritorious and promising work in the field of industrially or commercially applicable mathematics” (MSci).\nRecipient of an Excellence Scholarship as an undergraduate, worth £5000 a year for the duration of my undergraduate studies."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

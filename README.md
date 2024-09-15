@@ -1,1 +1,0 @@
-# j-tyr.github.io
