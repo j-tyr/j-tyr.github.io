@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "TODO"
+    "text": "About this site"
   },
   {
     "objectID": "cv.html",
@@ -49,17 +49,17 @@
     "text": "Certificates and achievements\n“Editors’ Suggestion” for my article in Physical Review Fluids, awarded to fewer than 10% of papers submitted to the journal.\nRecipient of the Andrew King Prize for “outstanding performance in the field of Applied Mathematics” (MSci).\nRecipient of the Allied Maples Prize for “meritorious and promising work in the field of industrially or commercially applicable mathematics” (MSci).\nRecipient of an Excellence Scholarship as an undergraduate, worth £5000 a year for the duration of my undergraduate studies."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "TODO"
   }
 ]
