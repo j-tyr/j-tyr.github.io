@@ -15,8 +15,9 @@ website:
 
 format:
   html:
-    theme: darkly
-    css: styles.scss
+    theme: 
+      - darkly
+      - styles.scss
     toc: true
 
 
